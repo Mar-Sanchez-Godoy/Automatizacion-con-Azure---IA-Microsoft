@@ -22,7 +22,7 @@ Datos en bruto
 <img src="Screenshots/Muestra en bruto.png" width="350">
 </p>
 
-Datos
+Tabla
 <p align="left">
 <img src="Screenshots/Datos finales.png" width="450">
 </p>
