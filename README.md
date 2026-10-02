@@ -38,38 +38,28 @@ Tabla modificada y lista para usar
 
 
 ## Cálculo de KPI's
------------------
+### 1. KPIs Económicos 
+- ROI: 0,17 (17%)
+- Ahorro anual: 23.920 €
+- Coste total: 20.384 €
+- Beneficio total: 3.536 €
 
-### 1. KPI's Económicos
---------------------
-- Ahorro por errores evitados:
-- Ahorro por herramientas eliminadas:
-- Ahorro por eficiencia (tiempo ahorrado):
-- Beneficio total:
-- Coste total:
-- ROI:
+### 2. KPIs Operativos 
+- Tiempo ahorrado: 560 h/año
+- Consultas asistidas por IA: 9.600/año
+- Tasa de consultas sin errores: 80% (7.680 / 9.600)
+- Errores evitados: 128/año - Tasa de automatización de procesos: 50%
 
-
-### 2. KPI's Operativos
---------------------
-- Consultas resueltas/mes con IA:
-- Horas ahorradas/mes: 
-- Procesos automatizados: 50 %
-- Tiempo medio por consulta: 5 min
-
-### 3. KPI's de Adopción 
----------------------
+### 3. KPIs de Adopción
 - Empleados activos: 200
-- Tasa de adopción: 40 %
-- Consultas por empleado/mes: 20
+- Tasa de adopción: 40%
+- Consultas por empleado al mes: 20
 
-### 4. KPI's de Riesgo y Cumplimiento 
------------------------------------
-- Interacciones auditables: 95 %
-- Incidentes de cumplimiento: 1 / trimestre
-- Sesgos detectados: 2 / mes
-- Explicabilidad: 70 %
-- Trazabilidad: 85 %
+### 4. KPIs de Riesgo y Cumplimiento 
+- Interacciones auditables: 98%
+- Incidentes de cumplimiento: 1 por trimestre 
+- Sesgos detectados: 144/año
+- Nivel de explicabilidad: 70%
 
 ## 🗂️ Estructura del repositorio
 -----------------------------
