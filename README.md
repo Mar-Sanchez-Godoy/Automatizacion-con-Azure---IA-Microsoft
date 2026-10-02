@@ -37,10 +37,10 @@ Tabla modificada y lista para usar
 - Construir un dashboard profesional en Locker Studio Google para reporting ejecutivo.
 
 
-## Cálculo de KPI 
+## Cálculo de KPI's
 -----------------
 
-### 1. KPI Económicos
+### 1. KPI's Económicos
 --------------------
 - Ahorro por errores evitados:
 - Ahorro por herramientas eliminadas:
@@ -50,20 +50,20 @@ Tabla modificada y lista para usar
 - ROI:
 
 
-### 2. KPI Operativos
+### 2. KPI's Operativos
 --------------------
 - Consultas resueltas/mes con IA:
 - Horas ahorradas/mes: 
 - Procesos automatizados: 50 %
 - Tiempo medio por consulta: 5 min
 
-### 3. KPI de Adopción 
+### 3. KPI's de Adopción 
 ---------------------
 - Empleados activos: 200
 - Tasa de adopción: 40 %
 - Consultas por empleado/mes: 20
 
-### 4. KPI de Riesgo y Cumplimiento 
+### 4. KPI's de Riesgo y Cumplimiento 
 -----------------------------------
 - Interacciones auditables: 95 %
 - Incidentes de cumplimiento: 1 / trimestre
